@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1e2cde4-e761-4193-b5a3-de94f658c139" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ecommerce" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ecommerce" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ecommerce" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ecommerce" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Claudiocm"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Claudiocm/ecommerce.git",
+    "accountId": "3200cfb0-1c89-446c-a074-a638b7fbf530"
+  }
+}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2duqSn6CcHMKxyJT3dh0LtKuaoC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build ecommerce.executor": "Run",
+    "Gradle.EcommerceApplicationTests.contextLoads.executor": "Run",
+    "Gradle.ItemControllerTest.executor": "Run",
+    "Gradle.ItemControllerTest.getItemById.executor": "Run",
+    "Gradle.ItemControllerTest.getItemsByItemId.executor": "Run",
+    "Gradle.ItemControllerTest.getPostItemWhenOk.executor": "Run",
+    "Gradle.ItemControllerTest.postItem.executor": "Run",
+    "Gradle.ItemControllerTest.returnOkWhenFindItems.executor": "Run",
+    "Gradle.ItemServiceImplTest.getItemRepository.executor": "Run",
+    "Gradle.ItemServiceImplTest.returnItemWhenSaveItem.executor": "Run",
+    "Gradle.ItemServiceImplTest.returnItemsWhenSearchItems.executor": "Run",
+    "Gradle.OrderControllerTest.executor": "Run",
+    "Gradle.OrderControllerTest.returnOkWhenFindItemById.executor": "Run",
+    "Gradle.OrderControllerTest.returnOkWhenFindOrderById.executor": "Run",
+    "Gradle.OrderControllerTest.returnOkWhenPostOrder.executor": "Run",
+    "Gradle.OrderRepositoryTest.returnWithOrderWhenSearchOrder.executor": "Run",
+    "Gradle.ecommerce [:EcommerceApplicationKt.main()].executor": "Run",
+    "Gradle.ecommerce [bootRun].executor": "Run",
+    "Gradle.ecommerce [build].executor": "Run",
+    "Gradle.ecommerce [check].executor": "Run",
+    "Gradle.ecommerce [clean].executor": "Run",
+    "Gradle.ecommerce [testClasses].executor": "Run",
+    "Gradle.ecommerce [test].executor": "Run",
+    "JUnit.EcommerceApplicationTests.executor": "Run",
+    "Kotlin.EcommerceApplicationKt.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Claudio/Documents/workspace-intellj/ecommerce/settings.gradle.kts",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.37931034",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
+  },
+  "keyToStringList": {
+    "kotlin-gradle-user-dirs": [
+      "C:\\Gradle\\gradle-8.6"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="io.kotest.core.spec.style.FunSpec" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Claudio\Documents\workspace-intellj\ecommerce\src\test\resources" />
+      <recent name="C:\Users\Claudio\Documents\workspace-intellj\ecommerce\src\test" />
+      <recent name="C:\Users\Claudio\Documents\workspace-intellj\ecommerce" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.claudio.gobots.ecommerce.exception.response" />
+      <recent name="com.claudio.gobots.ecommerce.dto.response" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.claudio.gobots.ecommerce.service.impl" />
+      <recent name="com.claudio.gobots.ecommerce.controller" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.claudio.gobots.ecommerce.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.EcommerceApplication">
+    <configuration name="EcommerceApplication" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="17" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.claudio.gobots.ecommerce.EcommerceApplicationKt" />
+      <module name="ecommerce.main" />
+      <extension name="software.aws.toolkits.jetbrains.core.execution.JavaAwsConnectionExtension">
+        <option name="credential" />
+        <option name="region" />
+        <option name="useCurrentConnection" value="false" />
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemServiceImplTest.getItemRepository" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.claudio.gobots.ecommerce.service.impl.ItemServiceImplTest.getItemRepository&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ItemServiceImplTest.returnItemWhenSaveItem" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.claudio.gobots.ecommerce.service.impl.ItemServiceImplTest.returnItemWhenSaveItem&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ItemServiceImplTest.returnItemsWhenSearchItems" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.claudio.gobots.ecommerce.service.impl.ItemServiceImplTest.returnItemsWhenSearchItems&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="OrderRepositoryTest.returnWithOrderWhenSearchOrder" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.claudio.gobots.ecommerce.repository.OrderRepositoryTest.returnWithOrderWhenSearchOrder&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="ecommerce [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.EcommerceApplication" />
+      <item itemvalue="Gradle.OrderRepositoryTest.returnWithOrderWhenSearchOrder" />
+      <item itemvalue="Gradle.ItemServiceImplTest.returnItemWhenSaveItem" />
+      <item itemvalue="Gradle.ItemServiceImplTest.returnItemsWhenSearchItems" />
+      <item itemvalue="Gradle.ItemServiceImplTest.getItemRepository" />
+      <item itemvalue="Gradle.ecommerce [test]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.OrderRepositoryTest.returnWithOrderWhenSearchOrder" />
+        <item itemvalue="Gradle.ItemServiceImplTest.returnItemsWhenSearchItems" />
+        <item itemvalue="Gradle.ItemServiceImplTest.getItemRepository" />
+        <item itemvalue="Gradle.ItemServiceImplTest.returnItemWhenSaveItem" />
+        <item itemvalue="Gradle.ecommerce [test]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1e2cde4-e761-4193-b5a3-de94f658c139" name="Changes" comment="" />
+      <created>1710868314401</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710868314401</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ecommerce$ItemServiceImplTest_getItemRepository.ic" NAME="ItemServiceImplTest.getItemRepository Coverage Results" MODIFIED="1711571646309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

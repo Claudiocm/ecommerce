@@ -3,7 +3,7 @@
 O projeto consiste em uma api de notificação de pedidos. 
 
 ## Stack
-
+- Intellij - IDE
 - Linguagem kotlin - Versão: 1.5.0 
 - Spring boot 3.2.2 
 - kotlin
@@ -12,12 +12,12 @@ O projeto consiste em uma api de notificação de pedidos.
 ### Banco NoSQL 
 - MongoDB
 
-## Documentação
+### Documentação
 
 - Swagger 2.9.2
 - http://localhots:8080/swagger-ui.html
 
-## Projeto
+### Projeto
 
 ## Run
  ### Execute o programa:
@@ -29,7 +29,7 @@ O projeto consiste em uma api de notificação de pedidos.
  = Para subir o kafka pelo docker \
    $ docker-compose up -d
  
-## REST API
+### REST API
 * Lista todas a orders:\
 GET /api/v1/orders/search \
   RESPONSE:

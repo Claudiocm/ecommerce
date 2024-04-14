@@ -1,0 +1,9 @@
+<changelist name="Uncommitted_changes_before_rebase_[Changes]" date="1713125549918" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value=".idea/sonarlint/issuestore/a/c/acd1b0adeb7200ef3fb4054ed227757abca4a518" />
+    <option name="AFTER_PATH" value=".idea/sonarlint/issuestore/a/c/acd1b0adeb7200ef3fb4054ed227757abca4a518" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/acd1b0adeb7200ef3fb4054ed227757abca4a518" />
+  </binary>
+</changelist>

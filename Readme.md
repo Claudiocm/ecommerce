@@ -24,12 +24,12 @@ O projeto consiste em uma api de notificação de pedidos.
    $ ./gradlew clean build \
  ou \
    $ docker build --no-cache -t payments:latest . \
-   $ docker run -p 8080:8080 payments:latest \ 
- Para subir o kafka pelo docker \
+   $ docker run -p 8080:8080 payments:latest \
+* Para subir o kafka pelo docker \
    $ docker-compose up -d
  
 ### REST API
-* Lista todas a orders:\
+* Lista todas a orders: \
 GET /api/v1/orders/search \
   RESPONSE:
 

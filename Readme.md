@@ -15,7 +15,7 @@ O projeto consiste em uma api de notificação de pedidos.
 ### Documentação
 
 - Swagger 2.9.2
-- http://localhots:8080/swagger-ui.html
+- <http://localhots:8080/swagger-ui.html>
 
 ### Projeto
 

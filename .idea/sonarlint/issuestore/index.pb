@@ -90,6 +90,3 @@ r
 Bsrc/main/kotlin/com/claudio/gobots/ecommerce/entity/OrderStatus.kt,6\d\6dfa2e96c5d5515dfea839bf7d42faac8acfbb4d
 9
 	Readme.md,0\c\0c1945d7443c2e154bd3e421c0d438bd4086d8c3
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
